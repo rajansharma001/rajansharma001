@@ -3,7 +3,7 @@
 I'm a self-taught Full Stack Developer based in Doha, Qatar 🇶🇦
 
 Currently focused on building real-world projects using:
-- 💻 **Frontend**: React.js, Next.js, Tailwind CSS, JavaScript
+- 💻 **Frontend**: React.js, Next.js, Tailwind CSS, Typescript
 - 🔧 **Backend**: Node.js, Express.js, MongoDB
 - 🧠 Learning: Authentication (JWT), API development, full-stack deployment
 
