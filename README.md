@@ -1,18 +1,38 @@
-# Hi, I'm Rajan Sharma 👋
+# 👋 Hey, I'm Rajan Sharma
 
-I'm a self-taught Full Stack Developer based in Doha, Qatar 🇶🇦
+💻 **Full-Stack Developer** | 🚀 **Building modern web applications** | 🌏 Based in Doha, Qatar  
 
-Currently focused on building real-world projects using:
-- 💻 **Frontend**: React.js, Next.js, Tailwind CSS, Typescript
-- 🔧 **Backend**: Node.js, Express.js, MongoDB
-- 🧠 Learning: Authentication (JWT), API development, full-stack deployment
+I specialize in creating fast, scalable, and user-friendly applications using **React, Next.js, TailwindCSS, TypeScript, Node.js, Express, and MongoDB**.  
+I’m passionate about delivering clean code, intuitive UIs, and seamless user experiences.
 
-## 🛠️ Projects in Progress
-- **LMS Platform** – Full-stack learning platform with login/register, course management, protected routes.
-- **Dashboard UI** – Admin dashboard using Tailwind CSS + Next.js
-- More projects coming soon...
+---
 
-## 🔗 Portfolio & Contact
-- 🌐 [Portfolio Website](https://rajansharma.info.np)
-- 📧 Email: email.rajan001@gmail.com
-- 📍 Currently in: Doha, Qatar
+## 🚀 Tech Stack
+
+**Frontend:**  
+React • Next.js • TypeScript • TailwindCSS • Zustand • Redux  
+
+**Backend:**  
+Node.js • Express • TypeScript • MongoDB • Mongoose • REST APIs  
+
+**Other Tools:**  
+Git • GitHub Actions • Postman • Vercel • Render • Cloudinary
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajansharma001&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajansharma001&theme=radical" height="165"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rajan-sharma-280764337/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:email.rajan001@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
+  <a href="https://github.com/rajansharma001"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
+</p>
