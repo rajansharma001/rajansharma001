@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rajan Sharma
 
-💻 **Full-Stack Developer** | 🚀 **Building modern web applications** | 🌏 Based in Doha, Qatar  
+💻 **Full-Stack Developer** | 🚀 **Building modern web applications**   
 
 I specialize in creating fast, scalable, and user-friendly applications using **React, Next.js, TailwindCSS, TypeScript, Node.js, Express, and MongoDB**.  
 I’m passionate about delivering clean code, intuitive UIs, and seamless user experiences.
