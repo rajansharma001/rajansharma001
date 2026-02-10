@@ -10,10 +10,10 @@ I’m passionate about delivering clean code, intuitive UIs, and seamless user e
 ## 🚀 Tech Stack
 
 **Frontend:**  
-React • Next.js • TypeScript • TailwindCSS • Zustand • Redux  
+React • Next.js • TypeScript • TailwindCSS • Zustand • Redux  • ZOD  
 
 **Backend:**  
-Node.js • Express • TypeScript • MongoDB • Mongoose • REST APIs  
+Node.js • Express • TypeScript • MongoDB • Mongoose • REST APIs  • ZOD  
 
 **Other Tools:**  
 Git • GitHub Actions • Postman • Vercel • Render • Cloudinary
